@@ -8,7 +8,7 @@ import { mainPage } from './components/mainPage.js';
 export const routes = {
   '/CDMX012-social-network/src/': home,
   '/CDMX012-social-network/src/registration': registration,
-  '/mainPage': mainPage,
+  '/CDMX012-social-network/src/mainPage': mainPage,
 };
 
 window.onload = () => {
