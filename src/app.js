@@ -7,7 +7,7 @@ import { mainPage } from './components/mainPage.js';
 //  Routing
 export const routes = {
   '/CDMX012-social-network/src/': home,
-  '/registration': registration,
+  '/CDMX012-social-network/src/registration': registration,
   '/mainPage': mainPage,
 };
 
