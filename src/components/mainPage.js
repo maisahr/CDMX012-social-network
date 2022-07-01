@@ -15,7 +15,7 @@ export const mainPage = () => {
   const petspacePlanetAttributes = {
     class: 'petspace-planet icon',
     id: 'petspacePlanet',
-    src: '../img/PetSpacePlanet.png',
+    src: 'img/PetSpacePlanet.png',
   };
   const menuUpRightAttributes = {
     class: 'menu-up-r menu',
@@ -24,17 +24,17 @@ export const mainPage = () => {
   const shopIconAttributes = {
     class: 'shop-icon icon',
     id: 'shopIcon',
-    src: '../img/shopIcon.png',
+    src: 'img/shopIcon.png',
   };
   const locationIconAttributes = {
     class: 'location-icon icon',
     id: 'locationIcon',
-    src: '../img/locationIcon.png',
+    src: 'img/locationIcon.png',
   };
   const searchIconAttributes = {
     class: 'search-icon icon',
     id: 'searchIcon',
-    src: '../img/searchIcon.png',
+    src: 'img/searchIcon.png',
   };
   const homePageAttributes = {
     class: 'home-page',
@@ -51,7 +51,7 @@ export const mainPage = () => {
   const homeIconAttributes = {
     class: 'home-icon icon',
     id: 'homeIcon',
-    src: '../img/homeIcon.png',
+    src: 'img/homeIcon.png',
   };
   const menuIconAttributes = {
     class: 'menu-icon icon',
